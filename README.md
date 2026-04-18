@@ -10,5 +10,5 @@ This repository is used for:
 - early-stage product ideas
 
 Author:
-Viorel Ciprian Brisc
+Viorel Brisc
 https://www.limit.ro/viorel-brisc.html
